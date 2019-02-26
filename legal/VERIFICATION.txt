@@ -1,0 +1,9 @@
+﻿VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+The embedded software has been downloaded from the Windows installer
+page on the Stubby website.
+https://dnsprivacy.org/wiki/display/DP/Windows+installer+for+Stubby
+
+SHA256 checksums for the binary packages are given on the website.
