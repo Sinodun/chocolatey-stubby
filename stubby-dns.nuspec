@@ -35,8 +35,4 @@ increasing end user privacy.
       <dependency id="chocolatey-core.extension" version="1.3.3" />
     </dependencies>
   </metadata>
-  <files>
-    <file src="tools/**" target="tools" />
-    <file src="legal/**" target="legal" />
-  </files>
 </package>
