@@ -5,8 +5,8 @@ $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   fileType      = "msi"
-  file          = "$toolsDir\stubby-%VERSION%-i686.msi"
-  file64        = "$toolsDir\stubby-%VERSION%-x86_64.msi"
+  file          = "$toolsDir\stubby-%VERSION%-x86.msi"
+  file64        = "$toolsDir\stubby-%VERSION%-x64.msi"
 
   softwareName  = 'Stubby'
 
