@@ -20,6 +20,8 @@
     <licenseUrl>https://cdn.jsdelivr.net/gh/getdnsapi/stubby@0.2.5/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/getdnsapi/stubby</projectSourceUrl>
+    <packageSourceUrl>https://github.com/banburybill/chocolatey-stubby-dns</packageSourceUrl>
+    <releaseNotes>https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby</releaseNotes>
     <tags>getdns Stubby foss DNS stub resolver</tags>
     <summary>Local DNS Privacy stub resolver</summary>
     <description>*Stubby* is an application that acts as a local DNS Privacy stub resolver (using DNS-over-TLS).
