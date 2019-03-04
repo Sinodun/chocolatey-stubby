@@ -13,14 +13,14 @@
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
     <title>Stubby</title>
-    <authors>GetDNS team</authors>
+    <authors>Stubby/getdns team</authors>
     <projectUrl>https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/Sinodun/stubby_manager_gui@0.2.0/Icons/Icon1024.png</iconUrl>
-    <copyright>2013-2019 NLNet Labs, Verisign</copyright>
+    <copyright>2013-2019 NLNet Labs, Verisign, Sinodun IT</copyright>
     <licenseUrl>https://cdn.jsdelivr.net/gh/getdnsapi/stubby@0.2.5/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/getdnsapi/stubby</projectSourceUrl>
-    <tags>GetDNS Stubby foss DNS stub resolver</tags>
+    <tags>getdns Stubby foss DNS stub resolver</tags>
     <summary>Local DNS Privacy stub resolver</summary>
     <description>*Stubby* is an application that acts as a local DNS Privacy stub resolver (using DNS-over-TLS).
 Stubby encrypts DNS queries sent from a client machine (desktop or laptop) to a DNS Privacy resolver
