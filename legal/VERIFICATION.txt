@@ -6,4 +6,11 @@ The embedded software has been downloaded from the Windows installer
 page on the Stubby website.
 https://dnsprivacy.org/wiki/display/DP/Windows+installer+for+Stubby
 
-SHA256 checksums for the binary packages are given on the website.
+SHA256 checksums for the binary packages are:
+
+Stubby %VERSION%:
+64bit Windows Installer stubby-%VERSION%-x64.msi
+%CHECKSUM64%
+
+32bit Windows Installer stubby-%VERSION%-x86.msi
+%CHECKSUM%

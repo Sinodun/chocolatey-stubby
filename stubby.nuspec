@@ -4,9 +4,8 @@
   <metadata>
     <id>stubby</id>
     <version>%VERSION%</version>
-    <!-- <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>-->
-    <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
-    <!--<owners>__REPLACE_YOUR_NAME__</owners>-->
+    <owners>banburybill</owners>
+    <packageSourceUrl>https://github.com/sinodun/chocolatey-stubby</packageSourceUrl>
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
@@ -16,10 +15,9 @@
     <projectUrl>https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/Sinodun/stubby_manager_gui@0.2.0/Icons/Icon1024.png</iconUrl>
     <copyright>2013-2019 NLNet Labs, Verisign, Sinodun IT</copyright>
-    <licenseUrl>https://cdn.jsdelivr.net/gh/getdnsapi/stubby@0.2.5/COPYING</licenseUrl>
+    <licenseUrl>https://github.com/getdnsapi/stubby/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/getdnsapi/stubby</projectSourceUrl>
-    <packageSourceUrl>https://github.com/banburybill/chocolatey-stubby-dns</packageSourceUrl>
     <releaseNotes>https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby</releaseNotes>
     <tags>getdns Stubby foss DNS stub resolver</tags>
     <summary>Local DNS Privacy stub resolver</summary>
