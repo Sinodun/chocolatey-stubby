@@ -4,7 +4,7 @@
   <metadata>
     <id>stubby</id>
     <version>%VERSION%</version>
-    <owners>banburybill</owners>
+    <owners>banburybill, saradickinson</owners>
     <packageSourceUrl>https://github.com/sinodun/chocolatey-stubby</packageSourceUrl>
     <!-- ============================== -->
 
