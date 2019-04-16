@@ -29,8 +29,8 @@ increasing end user privacy.
 - Runs as a daemon listening on the loopback  addresses (127.0.0.1, ::0)
 - Sends all outgoing DNS queries received on those addresses out over TLS
 - Uses a default configuration which provides Strict Privacy and uses a subset of the available DNS Privacy servers run by the Stubby developers
-- Has additional servers available for activation in the configuration file (e.g. Cloudflare, Quad9, Google)</description>
-- For more details on configuring, testing and running stubby after installation see https://dnsprivacy.org/wiki/display/DP/Windows+installer+for+Stubby
+- Has additional servers available for activation in the configuration file (e.g. Cloudflare, Quad9, Google)
+- For more details on configuring, testing and running stubby after installation see https://dnsprivacy.org/wiki/display/DP/Windows+installer+for+Stubby</description>
     <dependencies>
       <dependency id="chocolatey-core.extension" version="1.3.3" />
     </dependencies>
