@@ -33,6 +33,7 @@ increasing end user privacy.
 - For more details on configuring, testing and running stubby after installation see https://dnsprivacy.org/wiki/display/DP/Windows+installer+for+Stubby</description>
     <dependencies>
       <dependency id="chocolatey-core.extension" version="1.3.3" />
+      <dependency id="vcredist140" version="14.29.30037" />
     </dependencies>
   </metadata>
   <files>
